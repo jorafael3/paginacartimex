@@ -1,0 +1,110 @@
+NOMBRE,CARGO,EXT.,CORREO
+ZAMBRANO XAVIER,Jefe de Ventas Distribucion,205,xzambrano@cartimex.com
+CAICEDO FRANCISCO,Ventas Distribucion,385,fcaicedo@cartimex.com
+ALEJANDRA CEVALLOS ,Ventas Distribucion,124,macevallos@cartimex.com
+LINA MONTAÑO,Ventas Distribucion,443,lmontano@cartimex.com
+LERTORA JUAN ANTONIO,Ventas Distribucion,214,jlertora@cartimex.com
+PULLEY DAVID,Ventas Distribucion,286,dpulley@cartimex.com
+SANCHEZ MARISOL,Ventas Distribucion,204,msanchez@cartimex.com
+NANCY SANCHEZ,Ventas Distribucion,441,nsanchez@cartimex.com
+PARRALES MALENA,Ventas Distribucion,210,mparrales@cartimex.com
+MORA GLENDA,Ventas Distribucion,448,gmora@cartimex.com
+SANCHEZ KAREN,Ventas Distribucion,446,ksanchez@cartimex.com
+TERAN FERNANDO,Director Comercial,126,fteran@cartimex.com
+ALARCON MA.  ESTHER,Ventas Corporativo,451,malarcon@cartimex.com
+KELLY GREY,Ventas Corporativo,456,kgrey@cartimex.com
+CRISTOBAL ALVAREZ,Ventas Corporativo,220,vhogar3@cartimex.com
+ARTURO DELGADO,Ventas Corporativo,221,vhogar1@cartimex.com
+CARLOS OCAMPO,Ventas Corporativo,445,cocompo@cartimex.com
+PILCO DIEGO,Ventas Corporativo,217,dpilco@cartimex.com
+ORELLANA CARLOS,Ventas Corporativo,455,corellana@cartimex.com
+KELLY VITE ,Ventas Corporativo,449,kvite@cartimex.com
+MEDINA T. GONZALO   ,Ventas Corporativo,207,gmedina@cartimex.com
+TORRES MA. FERNANDA,Ventas Corporativo,442,ftorres@cartimex.com
+TUMBACO ROBERTO,Ventas Corporativo,454,rtumbaco@cartimex.com
+VIZCARRA JESSICA,Ventas Corporativo,126,jvizcarra@cartimex.com
+CONSTANTE CATALINA,Jefe de Auditoria,112,cconstante@cartimex.com
+GABRIELA GUARNIZO ,Auditoria,134,gguernizo@cartimex.com
+DIAZ MARYURIE,Auditoria,134,mdiaz@cartimex.com
+KELLY TOMALA,Jefe de Recursos Humanos,284,ktomala@cartimex.com
+CHERREZ PAOLA DRA.,Recursos Humanos,128,pcherrez@cartimex.com
+FRANCO KELLY,Recursos Humanos,386,kfranco@cartimex.com
+DOUGLAS CORONEL  ,Recursos Humanos,334,dcoronel@cartimex.com
+JOSE LUNA,Gerente Financiero,306,jluna@cartimex.com
+HERRERA ARACELY,Financiero,311,aherrera@cartimex.com
+MELINA TOMALA ,Financiero,329,
+LUNA BANNY,Financiero,104,bluna@cartimex.com
+ANGI RUIZ ,Financiero,301,aruiz@cartimex.com
+PANCHANA VERONICA,Financiero,317,vpanchana@cartimex.com
+CEDEÑO VICTOR,Jefe Credito y Cobranzas,308,vcedeno@cartimex.com
+HERRERA EDUARDO,Credito y Cobranzas,323,eherrera@cartimex.com
+MOSQUERA LISSETTE,Credito y Cobranzas,313,lmosquera@cartimex.com
+MENENDEZ LISSETTE,Credito y Cobranzas,340,lmenéndez@cartimex.com
+REZABALA ZOILA,Credito y Cobranzas,325,zrezabala@cartimex.com
+EVELYN  TROYA ,Contabilidad,310,etroya@cartimex.com 
+MA. BELEN ZAMBRANO,Contabilidad,310,bzambrano@cartimex.com
+DAVID LLORENTE ,Gerente de Compras e Importaciones,330,dllorente@cartimex.com
+ALVAREZ LAURA ,Compras,318,lalvarez@cartimex.com
+ZAMBRANO EMILIO,Compras,316,ezambrano@cartimex.com
+KATHERINE VINCES,Compras,335,
+BARCIONA CAROLINA,Compras,120,cbarciona@cartimex.com
+LORENA MOREIRA,Compras,315,lmoreira@cartimex.com
+KAROLYNE ESPINALES,Compras,341,kespinales@cartimex.com
+CASSIS V. GABRIEL,Compras,370,gcassis@cartimex.com
+ZAMBRANO MARCELA,Compras,333,mzambrano@cartimex.com
+JACINTO ZAMBRANO,Compras,211,jzambrano@cartimex.com
+Gabriel Lopez Carvajal,Compras,348,glopez@cartimex.com
+ANDRES ALVARES ,Compras,321,aalvares@cartimex.com
+CRISTHIAN YAGUAL ,Compras,338,cyagual@cartimex.com
+GARCIA ADRIANA,Compras,320,agarcia@cartimex.com
+MONICA VALLE ,Compras,206,mvalle@cartimex.com
+CHAVEZ PRISCILLA,Sistemas,328,pchavez@cartimex.com
+FALCONI MICHAEL,Sub Gerente de Operaciones,328,mfalconi@cartimex.com
+RICHARDS XAVIER,Gerente de Logistica,108,xrichards@cartimex.com
+FRANCO VICTOR,Logistica,105,vfranco@cartimex.com
+GUIJARRO VIVIANA,Logistica,109,vguijarro@cartimex.com
+MONTERO MARICELA,Logistica,107,mmontero@cartimex.com
+ROBERTO CORREA,Logistica,119,rcorrea@cartimex.com
+VERA LUIS,Logistica,107,lvera@cartimex.com
+RODRIGO LUNA,Logistica,122,rluna@cartimex.com
+JOICE MACIAS ,Logistica,123,jmacias@cartimex.com
+VERNAZA EDISON ,Logistica,117,evera@cartimex.com
+MARGARITA MACIAS,Logistica,118,mmacias@cartimex.com
+FELICIDAD CASTRO,Logistica,121,fcastro@cartimex.com
+RECEPCION,RECEPCION,100,recepcion@cartimex.com
+RECEPCION,RECEPCION,101,
+MEZA JENNIFER,Caja,102,jmeza@cartimex.com
+Caja,Caja,103,
+GILER CARLOS LUIS,Jefe de Produccion,277,
+CRISTHIAN LOPEZ,Produccion,303,
+MENDOZA LEONARDO,Produccion,278,
+LOPEZ HUGO,Produccion,111,
+LOPEZ JORGE ,Produccion,110,
+BETSABE GOMEZ ,Asistente de Gerencia,444,bgomez@cartimex.com
+CRISTIAN ALBORNOZ ,Gerente de Marketing,598,calbornoz@cartimex.com
+ANDRES MARTINEZ,Marketing,326,amartinez@cartimex.com
+PRISCILLA ARMIJOS,Marketing,203,parmijos@cartimex.com
+MONDAVI EDMOND,Gerente de Servitech,540,
+RECEPCION,Atencion al Cliente Servitech,500,
+YOMAIRA MONTOYA ,Atencion al Cliente Servitech,505,
+ALVAREZ GIOVANNY,Técnico Servitech,515,
+CALDERON DANIEL,Atencion al Cliente Servitech,508,
+GONZALEZ CARLOS,Atencion al Cliente Servitech,510,
+NOBOA CYNTHIA,Atencion al Cliente Servitech,509,
+RAMIREZ DARWIN,Atencion al Cliente Servitech,503,
+DAVID PADILLA,Atencion al Cliente Servitech,514,
+MARLON AYALA,Atencion al Cliente Servitech,519,
+JIMENEZ MARIANA,Atencion al Cliente Servitech,514,
+ALVAREZ WILLIAM,Ventas Servitech,513,walvarez@cartimex.com
+ESPINOZA VERONICA,Ventas Servitech,512,vespinoza@cartimex.com
+CARLOS OCHOA,Técnico Servitech,502,
+JEFFERSON SOLORZANO,Técnico Servitech,517,
+OCHOA CARLOS,Técnico Servitech,502,
+NAVARRETE CARLOS,Técnico Servitech,511,
+RODRIGUEZ JORGE ,Técnico Servitech,502,
+MEDARDO SILVAS,Legal,322,MSILVAS@CARTIMEX.COM
+CASTRO JONATHAN ,Ventas Online,626,jocastro@compu-tron.net
+LEONARDO LUNA ,Ventas Online,346,
+EDUARDO ROMERO,Ventas Online,343,
+YESSENIA TACURI,Ventas Online,624,ytacuri@compu-tron.net
+ARREAGA CARLOS,Seguridad Industrial,106,seguridadindustrial@cartimex.com

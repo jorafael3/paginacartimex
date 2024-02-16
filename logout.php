@@ -1,0 +1,7 @@
+<?php
+// Logout
+session_start();
+$_SESSION = array(); // Unset all of the session variables.
+if (session_status() == PHP_SESSION_ACTIVE) { session_destroy(); }
+header("Location: index.php"); // Redirecting To Home Page
+?>
