@@ -41,6 +41,9 @@ if (isset($_POST["username"]) && isset($_POST["password"]))
 	// Password Verification
 	$user_password = $clean_password;
 	$stored_hash = $db_hash;
+
+
+    
 	if(password_verify($user_password, $stored_hash)) 
 	{
 		// If password is OK...		
